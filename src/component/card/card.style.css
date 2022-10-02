@@ -1,0 +1,39 @@
+.card-circle-top {
+  background: #e5e5e5;
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
+  padding: 0.5em;
+  margin: 0 auto;
+  text-align: center;
+  font-size: 62px;
+  color: #2e2e2e;
+}
+
+.card {
+  padding: 3em 0.5em 0.5em;
+  margin: 1em;
+  text-align: center;
+  border-radius: 1em;
+  box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+  width: 15rem;
+}
+.card-name {
+  font-weight: bold;
+  font-size: 1.5em;
+  margin-bottom: 0em;
+  margin-top: 0.5em;
+}
+
+.card-username {
+  margin-bottom: 1em;
+  margin-top: 0em;
+  color: #8f8f8f;
+  font-style: italic;
+}
+
+.card-website-link {
+  cursor: pointer;
+  color: #248cfb;
+  text-decoration: underline;
+}
